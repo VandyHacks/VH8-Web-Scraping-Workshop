@@ -2,11 +2,11 @@
 
 Practice Website link: https://vhworkshops.github.io 
 
-Want some hands-on practice?
+<b>Want some hands-on practice?</b>
 
 Base code link: https://colab.research.google.com/drive/1ZoC3KfxjYJuLVkb01i6rgdO4ADuiB-CN?usp=sharing
 
-Want to just follow along?
+<b>Want to just follow along?</b>
 
 Completed tutorial link: https://colab.research.google.com/drive/1Z091wLnoV1EPxT8GFOjSElGAKE0YgJ9j?usp=sharing
 
